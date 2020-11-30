@@ -1,4 +1,16 @@
-**Welcome to my profile!**
+<style>
+.BlockStyle {
+    background: black;
+    max-width: 480px;
+    border: solid red 0.15em;
+    border-radius: 1em;
+    padding: 2em;
+}
+</style>
+
+<div class="BlockStyle">
+
+<b>Welcome to my profile!</b>
 
 I'm hogsy, aka Mark Sowden - based in the UK, England. Primarily working to preserve video game history through [TalonBrave.info](http://talonbrave.info/) and other initiatives.
 
@@ -15,3 +27,5 @@ Beyond that, I also do reverse-engineering for various games on the side and doc
 Feel free to contact me if you have any questions or just want to chat! I'm available on [Twitter](https://twitter.com/hogsy16), Discord (**hogsy#9210**) or via [email](mailto:hogsy@oldtimes-software.com).
 
 Want to support me in what I do? Then please don't hesitate to [sponser me](https://github.com/sponsors/hogsy)! ❤️
+
+</div>
