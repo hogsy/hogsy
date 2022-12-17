@@ -15,6 +15,6 @@ Beyond that, I also do reverse-engineering for various games on the side and doc
 
 If you want to know more about me, I also have a personal blog [here](https://www.hogsy.me/) with a dedicated 'About Me' page [here](https://www.hogsy.me/p/about-me.html), feel free to check it out!
 
-Contact me if you have any questions or just want to chat! I'm available on [Twitter](https://twitter.com/hogsy16), Discord (**hogsy#9210**) or via [email](mailto:hogsy@oldtimes-software.com).
+Contact me if you have any questions or just want to chat! I'm available on [Twitter](https://twitter.com/hogsy16), <a rel="me" href="https://mastodon.social/@hogsy">Mastodon</a>, Discord (**hogsy#9210**) or via [email](mailto:hogsy@oldtimes-software.com).
 
 Want to support me in what I do? Then please don't hesitate to [sponsor me](https://github.com/sponsors/hogsy)! ❤️
