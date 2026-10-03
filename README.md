@@ -15,8 +15,10 @@ A few examples of which I've provided below.
 
 If you want to know more about me, I also have a personal blog [here](https://www.hogsy.me/) with a dedicated 'About Me' page [here](https://www.hogsy.me/about.htm), feel free to check it out!
 
+A number of my projects have been relocated [here](https://git.solemnwarning.net/hogsy) and [here](https://codeberg.org/hogsy).
+
 Contact me if you have any questions or just want to chat!
-I'm available on [Bluesky](https://bsky.app/profile/hogsy.me), <a rel="me" href="https://mastodon.social/@hogsy">Mastodon</a>, Discord (**hogsy**) or via [email](mailto:hogsy@oldtimes-software.com).
+I'm available on [Bluesky](https://bsky.app/profile/hogsy.me), <a rel="me" href="https://mastodon.social/@hogsy">Mastodon</a> or Discord (**hogsy**).
 
 Want to support me in what I do?
 Then please don't hesitate to [sponsor me](https://github.com/sponsors/hogsy)! ❤️
